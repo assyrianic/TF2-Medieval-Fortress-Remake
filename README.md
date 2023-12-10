@@ -13,7 +13,6 @@ Using libmodsys as a modular framework, (as of this writing) the mod provides a 
 
 * Dependencies: [TF2Items](https://builds.limetech.io/?project=tf2items), [LibModSys](https://github.com/assyrianic/LibModSys), ConfigMap, MoreColors (MoreColors & ConfigMap are part of repo).
 * Optional Dependencies: [TF2Attributes](https://github.com/FlaminSarge/tf2attributes), [SteamTools](https://forums.alliedmods.net/showthread.php?t=170630)
-* Compile the VSH2 script code with spcomp or upload the prebuild SMX binaries; which ever method you use, move the SMX binaries to your server's SourceMod 'plugins' directory (addons/sourcemod/plugins).
 
 ### Who do I talk to?
 

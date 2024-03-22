@@ -6,7 +6,7 @@ The intent is to spice up TF2's medieval mode since it hasn't gotten an update i
 
 Using libmodsys as a modular framework, (as of this writing) the mod provides a currency, HUD, leveling, mana, and spells system.
 
-(as of this writing) the mod is in development.
+(as of this writing) the mod is unfinished.
 
 
 ### How do I get set up?
